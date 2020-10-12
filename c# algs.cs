@@ -62,7 +62,7 @@ public class Processo
             Console.WriteLine($"produto = {prodn1n2}");
             break;
         default:
-            Console.WriteLine("Erro.");
+            Console.WriteLine("stonks"); // isso eu não saquei direito o porquê, mas n faz diferença.
             break;
       }
    }
