@@ -8,6 +8,7 @@ public class Processo
 	À partir do problema proposto:
 	
 	Elaborar um  programa em  C++ que,  inicialmente,  leia  dois números inteiros.
+		SÓ QUE AQUI FOI FEITO EM C#!
 		Em  seguida,  o programa apresenta um menu de opções (switch...case) que permite escolher os seguintes cálculos,
 		que devem ser mostrados na tela:
 	1. A soma dos números pares contidos no intervalo formado por esses  números.
