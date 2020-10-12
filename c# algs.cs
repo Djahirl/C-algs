@@ -51,17 +51,17 @@ public class Processo
                 }
                 Console.WriteLine ($"A soma dos pares entre {n1} e {n2} é = {somn1n2}"); 
             break;
-          case 2:
+       case 2:
             median1n2 = (n1+n2)/2;
             Console.WriteLine($"Média = {median1n2}.");
             break;
-          case 3:
+       case 3:
             somn1n2 = n1 + n2;
             Console.WriteLine($"Soma = {somn1n2}.");
             prodn1n2 = n1 * n2;
             Console.WriteLine($"produto = {prodn1n2}");
             break;
-          default:
+        default:
             Console.WriteLine("Erro.");
             break;
       }
